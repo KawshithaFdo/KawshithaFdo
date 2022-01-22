@@ -54,13 +54,11 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me ⭐️
 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RaviduLakshitha&label=Profile%20views&color=0e75b6&style=flat" alt="RaviduLakshitha" /> </p>
 
 <p align="center">
-<a href="https://shenu01.github.io/MyProfile/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Ravidu.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ravidu-lakshitha-8988061bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ravidu%20Lakshitha%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/shenu-roysh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shenu__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ravidulakshitha@gmail360.com"><img alt="Email" src="https://img.shields.io/badge/Email-Ravidulakshitha360@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://kawshithafdo.000webhostapp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.KawshithaFdo.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="www.linkedin.com/in/kawshitha-fdo-52806b226"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kawshitha%20Fdo%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:praveenkawshika456@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-PraveenKawshitha456@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
