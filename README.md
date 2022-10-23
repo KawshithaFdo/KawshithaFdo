@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%white&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Praveen+Kawshitha+Fdo;Software+Engineer+and+UI/UX+Designer;I'm+Student+In+IJSE;Remember+follow+me">
+<img src="https://readme-typing-svg.herokuapp.com?color=%white&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Praveen+Kawshitha+Fdo;Software+Engineer+and+UI/UX+Designer;Remember+follow+me">
 
 <img align="right" width=300px height=200px alt="side_sticker" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif"/>
 
@@ -58,7 +58,7 @@
 <p align="center">
 <a href="https://kawshithafdo.000webhostapp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.KawshithaFdo.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="www.linkedin.com/in/kawshitha-fdo-52806b226"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kawshitha%20Fdo%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:praveenkawshika456@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-PraveenKawshitha456@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:praveenkawshika456@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-praveenkawshika456@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
